@@ -4,9 +4,8 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- &nbsp; A book lover 📕, a series lover 🎞️ and an aspiring musician 🎸.
-- 👽 &nbsp; Learning any tecnology that apears on my way.
+- 👽 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
+- 📕 🎞️ 🎸 &nbsp; A book lover, a series lover and an aspiring musician.
 - 🎓 &nbsp; Information Systems at the Federal University of Itajubá.
 
 
@@ -42,7 +41,6 @@
 
 ##  🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cheycattani)](https://github.com/cheycattani)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheyenne-cattani)](https://www.linkedin.com/in/cheyenne-cattani)
 <a href="https://www.instagram.com/cheyennecattani" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
