@@ -6,7 +6,7 @@
 
 - 👽 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 📕 🎞️ 🎸 &nbsp; A book lover, a series lover and an aspiring musician.
-- 🎓 &nbsp; Information Systems at the Federal University of Itajubá.
+- 🎓 &nbsp; Studying Information Systems at the Federal University of Itajubá.
 
 
 ### 🛠 &nbsp;Tech Stack
