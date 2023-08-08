@@ -2,11 +2,11 @@
 
 ## I'm Cheyenne, but you can call me Chey.
 
-
 <div align="center">
   <img  width="350" src="https://github.com/cheycattani/cheycattani/blob/main/phrase.svg" alt="phrase" />
-  <img   width="400" src="https://github.com/cheycattani/cheycattani/blob/main/cheyProgramando.gif" alt="Programming-gif" />
+  <img align="right" width="400" src="https://github.com/cheycattani/cheycattani/blob/main/cheyProgramando.gif" alt="Programming-gif" />
 </div>
+
 <div align="center">
   <a href="https://github.com/cheycattani">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cheycattani&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
