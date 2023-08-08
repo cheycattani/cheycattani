@@ -2,8 +2,9 @@
 
 ## I'm Cheyenne, but you can call me Chey.
 
- <img  width="350" src="https://github.com/cheycattani/cheycattani/blob/main/phrase.svg" alt="phrase" />
+
 <div align="center">
+  <img  width="350" src="https://github.com/cheycattani/cheycattani/blob/main/phrase.svg" alt="phrase" />
   <img   width="400" src="https://github.com/cheycattani/cheycattani/blob/main/cheyProgramando.gif" alt="Programming-gif" />
 </div>
 <div align="center">
