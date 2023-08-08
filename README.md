@@ -8,7 +8,7 @@
   
 
 
-
+<div align="center">
   <a href="https://github.com/cheycattani">
     <p><img  width="555em"  src="https://github-readme-streak-stats.herokuapp.com/?user=cheycattani&theme=maroongold"
     alt="brunovollin" /></p>
@@ -18,7 +18,7 @@
    
   <img height="165em" src="https://github-profile-trophy.vercel.app/?username=cheycattani&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
  
-
+</div>
 ### 💻 &nbsp;About Me 
 
 - 👽 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
