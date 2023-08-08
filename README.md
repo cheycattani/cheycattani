@@ -2,19 +2,20 @@
 
 ## I'm Cheyenne, but you can call me Chey.
 
-<div align="center">
-  <img  width="350" src="https://github.com/cheycattani/cheycattani/blob/main/phrase.svg" alt="phrase" />
+  <img align="center" width="400" src="https://github.com/cheycattani/cheycattani/blob/main/phrase.svg" alt="Pedro Nogueira Barboza" />
   <img align="right" width="400" src="https://github.com/cheycattani/cheycattani/blob/main/cheyProgramando.gif" alt="Programming-gif" />
-</div>
 
-<div align="center">
+
+
   <a href="https://github.com/cheycattani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cheycattani&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheycattani&hide=c,makefile,assembly,c%2B%2B&layout=compact&langs_count=7&theme=maroongold"/> 
-  <img height="165em" src="https://github-profile-trophy.vercel.app/?username=cheycattani&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+    <p><img  width="555em"  src="https://github-readme-streak-stats.herokuapp.com/?user=cheycattani&theme=maroongold"
+    alt="brunovollin" /></p>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=cheycattani&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img  height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheycattani&hide=c,makefile,assembly,c%2B%2B&layout=compact&langs_count=7&theme=maroongold"/> 
 
+   
+  <img height="165em" src="https://github-profile-trophy.vercel.app/?username=cheycattani&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
  
-</div>
 
 ### 💻 &nbsp;About Me 
 
