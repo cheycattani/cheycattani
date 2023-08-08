@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 ## I'm Cheyenne, but you can call me Chey.
+<div align="center">
+  <img align="center" width="400" src="https://github.com/cheycattani/cheycattani/blob/main/phrase.svg" alt="Chey" />
+</div>
 
-  <img align="center" width="400" src="https://github.com/cheycattani/cheycattani/blob/main/phrase.svg" alt="Pedro Nogueira Barboza" />
-  <img align="right" width="400" src="https://github.com/cheycattani/cheycattani/blob/main/cheyProgramando.gif" alt="Programming-gif" />
+  
 
 
 
