@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/cheycattani">
     <p><img  width="555em"  src="https://github-readme-streak-stats.herokuapp.com/?user=cheycattani&theme=maroongold"
-    alt="brunovollin" /></p>
+    alt="cheycattani" /></p>
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=cheycattani&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
   <img  height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheycattani&hide=c,makefile,assembly,c%2B%2B&layout=compact&langs_count=7&theme=maroongold"/> 
 
